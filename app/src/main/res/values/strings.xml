@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Visiting Card</string>
+    <string name="name">Suraiya Mahmuda</string>
+    <string name="your_photo">my_photo</string>
+    <string name="role">Research Assistant</string>
+    <string name="University_Name">Jahangirnagar University</string>
+    <string name="Blood_Group">Blood Group: B+</string>
+    <string name="phone">+8801855185051</string>
+    <string name="mail">suraiya2001mahmuda@gmail.com</string>
+    <string name="website">https://www.github.com/SuraiyaMahmuda</string>
+    <string name="whatsapp">+8801855185051</string>
+    <string name="hall">Sheikh Hasina Hall</string>
+    <string name="session">2019-2020</string>
+</resources>
